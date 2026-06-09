@@ -1,4 +1,4 @@
 # Life_Expectancy_Project
 ## Application Screenshot
 
-![Streamlit App](screenshot_app.png)
+![Streamlit App](screenshot_app.png.png)
